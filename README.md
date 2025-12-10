@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Estou no meu 5° periodo em Ciências da computação, me aprofundando em Ciências & Análise de Dados</b><br/>
-  <span style="opacity:0.8;">Busco conhecimento da transformação de dados em conhecimento de forma simples, clara e objetiva.</span>
+  <span style="opacity:0.8;">Busco conhecimento da transformação de dados de forma simples, clara e objetiva.</span>
 </p>
 
 ---
