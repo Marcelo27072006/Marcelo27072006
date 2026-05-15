@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://cdn-icons-gif.flaticon.com/13585/13585975.gif" width="60"/>
   <br/>
   🌐 Olá, eu sou Marcelo!
 </h1>
